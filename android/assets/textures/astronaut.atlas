@@ -1,0 +1,47 @@
+
+astronaut.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+astronaut_jump
+  rotate: false
+  xy: 1, 1
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+astronaut_walking
+  rotate: false
+  xy: 1, 1
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: 2
+astronaut_idle
+  rotate: false
+  xy: 29, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+astronaut_walking
+  rotate: false
+  xy: 29, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: 1
+astronaut_walking
+  rotate: false
+  xy: 29, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: 3
+astronaut_walking
+  rotate: false
+  xy: 57, 3
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: 4
